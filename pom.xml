@@ -4,6 +4,7 @@
   <artifactId>docker-jenkins-sample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
  <build>
+	 <finalName>jenkins-docker-jar</finalName>
    <plugins>
    <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
